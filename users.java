@@ -1,4 +1,4 @@
-
+hello --stage command check..
 added in master branch 
 this file contains users information
 
